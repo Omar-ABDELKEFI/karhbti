@@ -1,20 +1,3 @@
-[Dossier complet pdf avec screenshots](DOUMECHE_MARTIN_HACHISMAN_Rapport_PWEB.pdf)
-<br />
-<p align="center">
-
-  <h3 align="center">Projet Pweb 2020: Car'App</h3>
-
-  <p align="center">
-    Une web app pour gérer la location de voitures
-    <br />
-    ·
-    Jules Doumèche
-    ·
-    Gwénolé Martin
-    ·
-    Mehdi Hachisman
-  </p>
-</p>
 
 
 <!-- Sommaire -->
@@ -231,28 +214,3 @@ Ces extensions sont automatiquement installées en suivant [le guide d'installat
 * [Chart.js](https://www.chartjs.org/) : affichage de graphiques dynamiques
 * [bsCustomFileInput](https://www.npmjs.com/package/bs-custom-file-input) : importation de fichier avec bootstrap
 
-<!-- USAGE EXAMPLES -->
-## Utilisation
-
-Documentation des fonctionnalitées offertes par notre application ! (voir le rapport de projet)[Status][s-fini] 
-
-<!-- CONTACT -->
-## Contact
-
-Jules Doumèche - [@julio4](https://github.com/julio4) - jules.doumeche@etu.parisdescartes.fr
-Gwénolé Martin - [@LightBowFire](https://github.com/LightBowFire/) - gwenole.martin@etu.parisdescartes.fr
-Mehdi Hachisman - [@Mehachi](https://github.com/Mehachi/) - mehdi.hachisman@etu.parisdescartes.fr
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[s-url]: (#roadmap)
-[s-a-faire]: https://img.shields.io/static/v1?label=Statut&message=A%20faire&color=red
-[s-en-cours]: https://img.shields.io/static/v1?label=Statut&message=En%20cours&color=orange
-[s-fini]: https://img.shields.io/static/v1?label=Statut&message=Termin%C3%A9e&color=green
-[s-customer]: https://img.shields.io/static/v1?label=Rôle&message=Client&color=yellow
-[s-renter]: https://img.shields.io/static/v1?label=Rôle&message=Loueur&color=purple
-[s-admin]: https://img.shields.io/static/v1?label=Rôle&message=Admin&color=red
-[s-bug]: https://img.shields.io/static/v1?label=Statut&message=Bug&color=purple
-[s-frontend]: https://img.shields.io/static/v1?label=Front-end&message=90%&color=green
-[s-backend]: https://img.shields.io/static/v1?label=Back-end&message=40%&color=orange
-[screenshot]: images/screenshot.png
